@@ -60,3 +60,4 @@ The proposed project aims to use deep learning techniques to accurately predict 
 2. Move the dataset to this repo, unarchive, and rename the parent folder to data
 
 3. run the data_preprocessing notebook to convert the midi files piano_roll files and generated csv
+
