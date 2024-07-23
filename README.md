@@ -51,3 +51,12 @@ A Jupyter Notebook file (.ipynb) that contains the entire project code, includin
 This deliverable will be exported from a Jupyter Notebook and submitted as a PDF or HTML file.
 Conclusion
 The proposed project aims to use deep learning techniques to accurately predict the composer of a given musical score. The project will be implemented using LSTM and CNN architectures and will involve data pre-processing, feature extraction, model building, training, and evaluation. The final model can be used by novice musicians, listeners, and music enthusiasts to identify the composer of a musical piece accurately.
+
+
+### Getting Started
+
+1. download the dataset from [kaggle](https://www.kaggle.com/datasets/blanderbuss/midi-classic-music/code)
+
+2. Move the dataset to this repo, unarchive, and rename the parent folder to data
+
+3. run the data_preprocessing notebook to convert the midi files piano_roll files and generated csv
