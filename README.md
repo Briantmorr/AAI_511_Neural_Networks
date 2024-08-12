@@ -61,3 +61,6 @@ The proposed project aims to use deep learning techniques to accurately predict 
 
 3. run the data_preprocessing notebook to convert the midi files piano_roll files and generated csv
 
+4. Run pip install keras-tuner
+
+5. Run pip install music21
